@@ -11,8 +11,8 @@
     "web-vitals": "^4.2.4"
   },
   "scripts": {
-    "start": "react-app-rewired start",
-    "build": "react-app-rewired build",
+    "start": "react-scripts start",
+    "build": "react-scripts build",
     "eject": "react-scripts eject"
   },
   "eslintConfig": {
@@ -35,7 +35,6 @@
   },
   "devDependencies": {
     "@testing-library/react": "^16.1.0",
-    "@types/jest": "^29.5.14",
-    "react-app-rewired": "^2.2.1"
+    "@types/jest": "^29.5.14"
   }
 }
